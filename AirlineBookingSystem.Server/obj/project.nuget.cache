@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FIgGC8a9UGpu9uz+/qevOgEGrFN3a2UHSJjo3aCPGZWuuaqwYzf99Hs06cfQIu3Q5rmu+YQEU6rrkSVJV9BwRw==",
+  "success": true,
+  "projectFilePath": "C:\\ASPLearning\\AirlineBookingSystem\\AirlineBookingSystem.Server\\AirlineBookingSystem.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasc\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\8.0.7\\microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "sXXxCJVWGL8dh9LvgOhhXmlOssV/BiJATMwUq7vjpm8=",
+  "Source": "AirlineBookingSystem.Server",
+  "BasePath": "_content/AirlineBookingSystem.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\ASPLearning\\AirlineBookingSystem\\airlinebookingsystem.client\\airlinebookingsystem.client.esproj",
+      "Version": 2,
+      "Source": "airlinebookingsystem.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

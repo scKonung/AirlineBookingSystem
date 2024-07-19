@@ -1,0 +1,1 @@
+C:\ASPLearning\AirlineBookingSystem\airlinebookingsystem.client\obj\Debug\airlinebookingsystem.client.esproj.CoreCompileInputs.cache
