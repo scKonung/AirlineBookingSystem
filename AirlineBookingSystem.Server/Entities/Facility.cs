@@ -1,6 +1,6 @@
 ﻿namespace AirlineBookingSystem.Server.Entities
 {
-    public class Facility
+    public abstract class Facility
     {
         public int FacilityId { get; set; }
         public string Name { get; set; }
@@ -10,6 +10,7 @@
         public int AirportId { get; set; }
         public virtual Airport Airport { get; set; }
     }
+
 
     public enum FacilityType
     {
