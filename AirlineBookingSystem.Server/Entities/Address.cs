@@ -8,6 +8,8 @@
         public string Region { get; set; }
         public string PostalCode { get; set; }
 
+        public virtual Coordinate Coordinate { get; set; }
+
         public virtual Airport Airport { get; set; }
 
     }
